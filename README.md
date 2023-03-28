@@ -11,4 +11,5 @@ Tools:
 1. [Sentiment Analysis on social media comments ](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Sentiment_analysis_social_media_NPL.ipynb): Developed and deployed a machine learning model for sentiment analysis using natural language processing techniques.
 
 ## Data extraction
-1. [Data collection from an API](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Collecting_data_from_API.ipynb): Extracted data from the SpaceX API
+1. [Data collection from an API](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Collecting_data_from_API.ipynb): Extracted data from the SpaceX API.
+2. [Web Scrapping from a Wikipedia page](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Web_Scrapping.ipynb): Extracted data from the Falcon 9 launches Wikipedia page.
