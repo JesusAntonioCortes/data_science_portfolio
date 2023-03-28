@@ -9,4 +9,4 @@ Tools:
 
 ## Machine Learning models
 <ul>
-   <li> [Sentiment Analysis on social media comments] (https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Sentiment_analysis_social_media_NPL.ipynb)
+   <li>[Sentiment Analysis on social media comments] (https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Sentiment_analysis_social_media_NPL.ipynb)
