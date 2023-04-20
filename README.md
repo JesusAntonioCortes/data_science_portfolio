@@ -8,7 +8,7 @@ Tools:
 </ul>
 
 ## Machine Learning models
-1. [Sentiment Analysis on social media comments ](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Sentiment_analysis_social_media_NPL.ipynb): Developed and deployed a machine learning model for sentiment analysis using natural language processing techniques.
+1. [Natural Language Processing with Disaster Tweets ](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/NPL_disaster_Twitter.ipynb): Compare different machine learning models that predict which Tweets are about real disasters and which one’s aren’t.
 
 ## Data extraction
 1. [Data collection from an API](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Collecting_data_from_API.ipynb): Extracted data from the SpaceX API.
