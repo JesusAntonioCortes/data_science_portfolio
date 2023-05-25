@@ -13,3 +13,6 @@ Tools:
 ## Data extraction
 1. [Data collection from an API](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Collecting_data_from_API.ipynb): Extracted data from the SpaceX API.
 2. [Web Scrapping from a Wikipedia page](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/Web_Scrapping.ipynb): Extracted data from the Falcon 9 launches Wikipedia page.
+
+## Dashboards using Tableau
+1. [AirBnB data analysis](https://github.com/JesusAntonioCortes/data_science_portfolio/blob/main/AirnBnB_Dashboard.twb): Exploring the Key Factors Influencing Airbnb Rental Prices through Data Visualization.
